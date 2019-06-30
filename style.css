@@ -45,5 +45,8 @@ body{
     text-align: center;
     font-size: 25px;
     color: black;
+    border-radius: 10px;
+    border-color: gray;
+    border-style: solid;
    
 }
