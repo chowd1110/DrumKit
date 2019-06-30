@@ -28,12 +28,13 @@ body{
 }
 
 #ride {
+    position: absolute;
     background-color: #edba53;
     width: 160px;
     height: 160px;
     border-radius: 50%;
     opacity: 0.6;
-
-
-
+    border-color: #4a4742;
+    border-style: solid;
+    
 }
