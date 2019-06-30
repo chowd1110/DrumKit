@@ -2,3 +2,17 @@ body{
     background-image: url(img.jpg);
     background-size: 100%;
 }
+
+#kick {
+    position: absolute;
+    background-color: #111a21;
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    opacity: 0.8;
+    top: 350px;
+    left: 430px;
+}
+
