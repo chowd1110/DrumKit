@@ -29,6 +29,10 @@ body{
 
 #ride {
     background-color: #edba53;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+
 
 
 }
