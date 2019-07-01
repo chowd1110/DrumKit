@@ -43,10 +43,15 @@ body{
 
 #p {
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     color: black;
     border-radius: 10px;
     border-color: gray;
     border-style: solid;
-   
+    padding: 15px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+
 }
