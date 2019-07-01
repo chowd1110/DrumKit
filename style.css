@@ -98,5 +98,7 @@ body{
     text-align: center;
     font-size: 23px;
     color: #29281f;
-    
+    border-radius: 10px;
+    border-color: #131413;
+    border-style: solid;
 }
