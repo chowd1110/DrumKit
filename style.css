@@ -73,6 +73,9 @@ body{
     text-align: center;
     font-size: 20px;
     color: #29302a;
+    border-radius: 10px;
+    border-color: #131413;
+    border-style: solid;
     
 }
 
