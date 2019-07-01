@@ -107,5 +107,9 @@ body{
 
 #hi-hat {
     background-color: #edba53;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
     
+
 }
