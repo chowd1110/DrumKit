@@ -57,9 +57,13 @@ body{
 }
 
 #tom {
-    background-color: #e3dacc;
+    background-color: #ebdbc3;
     width: 130px;
     height: 130px;
     border-radius: 50%;
+    border-color: #4f1e05;
+    border-width: 5px;
+    border-style: solid;
     
+
 }
