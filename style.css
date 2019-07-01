@@ -121,5 +121,8 @@ body{
 #o {
     text-align: center;
     font-size: 20px;
-    color: #29281f
+    color: #29281f;
+    border-radius: 10px;
+    border-color: #131413;
+    border-style: solid;
 }
