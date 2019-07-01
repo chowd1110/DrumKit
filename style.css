@@ -82,5 +82,8 @@ body{
 
 #snare {
     background-color: #eff0dd;
+    width: 145px;
+    height: 145px;
+    border-radius: 50%;
     
 }
