@@ -92,5 +92,8 @@ body{
     opacity: 0.75;
     top: 170px;
     left: 450px;
+}
 
+#s {
+    text-align: center;
 }
