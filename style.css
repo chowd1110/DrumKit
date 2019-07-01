@@ -66,6 +66,7 @@ body{
     border-style: solid;
     top:200px;
     left: 650px;
+    opacity: 0.75;
 }
 
 #d {
