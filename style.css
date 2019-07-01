@@ -57,6 +57,7 @@ body{
 }
 
 #tom {
+    position: absolute;
     background-color: #ebdbc3;
     width: 130px;
     height: 130px;
@@ -64,6 +65,8 @@ body{
     border-color: #4f1e05;
     border-width: 3px;
     border-style: solid;
+    top:200px;
+    left: 650px;
     
 
 }
