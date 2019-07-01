@@ -58,4 +58,8 @@ body{
 
 #tom {
     background-color: #e3dacc;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    
 }
