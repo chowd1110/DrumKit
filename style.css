@@ -81,6 +81,7 @@ body{
 }
 
 #snare {
+    position: absolute;
     background-color: #eff0dd;
     width: 145px;
     height: 145px;
@@ -89,4 +90,7 @@ body{
     border-width: 3px;
     border-style: solid;
     opacity: 0.75;
+    top: 170px;
+    left: 450px;
+
 }
