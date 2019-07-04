@@ -134,3 +134,8 @@ body{
     padding: 10px;
     margin: 35px 35px 35px 35px;
 }
+
+.button-pressed {
+    background-color: #598576;
+    transform: scale(1.15);
+}
