@@ -27,3 +27,13 @@ Here's what it looks like after a key is pressed:
 
 2. By incorporating the mapping of the keys to the drum components into the UI
 
+# Author
+Saadaf Chowdhury
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# Acknowledgments 
+* The sounds were taken from the following repository: https://github.com/wesbos/JavaScript30
+* The background image was taken from the following website: https://unsplash.com
